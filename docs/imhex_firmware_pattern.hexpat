@@ -27,3 +27,4 @@ struct FirmwareFile {
 };
 
 FirmwareFile file @ 0x0;
+};
